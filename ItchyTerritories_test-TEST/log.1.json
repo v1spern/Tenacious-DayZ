@@ -1,0 +1,103 @@
+{
+    "territories": [
+        {
+            "position": [
+                1617.0628662109376,
+                271.4556579589844,
+                12047.0302734375
+            ],
+            "guid": "xXZDs6UBCbcAnnSZpQK8HgNIL4PObwvban43T4xwtSI=",
+            "name": "xXZDs6UBCbcAnnSZpQK8HgNIL4PObwvban43T4xwtSI=",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                2874.473876953125,
+                215.35086059570313,
+                12609.6826171875
+            ],
+            "guid": "ciJmG0KFs84D4OyzD30IyN70_8NZXvZZFhriZJLWwVw=",
+            "name": "\u0003",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                4200.85595703125,
+                336.27069091796877,
+                14580.4189453125
+            ],
+            "guid": "Z05Ojnol1YVEj_dQ9RGwSA48x1ImmJGuOJHV6f1FF3w=",
+            "name": "Z05Ojnol1YVEj_dQ9RGwSA48x1ImmJGuOJHV6f1FF3w=",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                7345.89306640625,
+                456.84588623046877,
+                15343.625
+            ],
+            "guid": "3a946JspUTgCxShwN05DqDsK8AQy5PU7I4UXXufg_b0=",
+            "name": "v1sper",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                8418.9609375,
+                162.65377807617188,
+                12215.9619140625
+            ],
+            "guid": "hCpYp-W2dSbFxl2I0QbgC9dsKHP3gn4in3EA_RRlA4U=",
+            "name": "hCpYp-W2dSbFxl2I0QbgC9dsKHP3gn4in3EA_RRlA4U=",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                8170.83056640625,
+                474.0400085449219,
+                9105.955078125
+            ],
+            "guid": "",
+            "name": "Unclaimed",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                11063.4482421875,
+                227.56260681152345,
+                12465.0419921875
+            ],
+            "guid": "18EiiWBP19So1PUqsdUE0DFioCqE2mEJl9Vin7bOrgg=",
+            "name": "\u0001",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                12413.3671875,
+                8.498624801635743,
+                9567.123046875
+            ],
+            "guid": "",
+            "name": "Unclaimed",
+            "memberGUIDs": [],
+            "memberNames": []
+        },
+        {
+            "position": [
+                15198.03515625,
+                11.218291282653809,
+                13882.255859375
+            ],
+            "guid": "",
+            "name": "Unclaimed",
+            "memberGUIDs": [],
+            "memberNames": []
+        }
+    ]
+}
